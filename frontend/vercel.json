@@ -1,0 +1,12 @@
+{
+    "framework": "nextjs",
+    "buildCommand": "npm run build",
+    "outputDirectory": ".next",
+    "installCommand": "npm install",
+    "env": {
+        "NEXT_PUBLIC_API_URL": {
+            "description": "URL of the Pai do Ano FastAPI backend",
+            "value": "https://pai-do-ano-api.onrender.com"
+        }
+    }
+}

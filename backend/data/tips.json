@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "category": "Presença",
+        "tip": "Presença não é quantidade de horas. É qualidade de atenção. 30 minutos olhando nos olhos vale mais que um dia inteiro no celular do lado."
+    },
+    {
+        "id": 2,
+        "category": "Presença",
+        "tip": "Quando seu filho te chamar e você estiver ocupado, responda antes de continuar o que está fazendo. Um simples 'já vou' já diz que ele existe."
+    },
+    {
+        "id": 3,
+        "category": "Presença",
+        "tip": "Desliga a TV. Fecha o computador. Senta no chão com ele. Dez minutos de brincadeira total vale mais que um presente caro."
+    },
+    {
+        "id": 4,
+        "category": "Presença",
+        "tip": "Apareça nos eventos pequenos. Na peça da escola, na reunião de pais. Seu filho vai procurar seu rosto na multidão."
+    },
+    {
+        "id": 5,
+        "category": "Presença",
+        "tip": "Dormir junto, contar história, fazer cócegas — isso não é frescura. É neurociência. Conexão física constrói cérebro saudável."
+    },
+    {
+        "id": 6,
+        "category": "Presença",
+        "tip": "Quando você sair por horas, despede dele. Não some. Criança que não entende ausência, cria ansiedade."
+    },
+    {
+        "id": 7,
+        "category": "Presença",
+        "tip": "O seu filho vai crescer e não vai lembrar do presente. Vai lembrar de você chegando pra buscar ele na escola."
+    },
+    {
+        "id": 8,
+        "category": "Presença",
+        "tip": "Ritual é poderoso. Cria um com seu filho. Pode ser o café da manhã, a oração, o aperto de mão secreto. Todo dia."
+    },
+    {
+        "id": 9,
+        "category": "Presença",
+        "tip": "Não delega 100% da educação pra mãe. Você tem que saber o nome do professor, do melhor amigo, da matéria favorita."
+    },
+    {
+        "id": 10,
+        "category": "Presença",
+        "tip": "Quando ele errar, sua primeira reação define o relacionamento. Se você explodir sempre, ele vai parar de te contar as coisas."
+    },
+    {
+        "id": 11,
+        "category": "Comunicação",
+        "tip": "Pergunta como foi o dia dele de verdade. Não é protocolo. É curiosidade real. Espera a resposta antes de falar de você."
+    },
+    {
+        "id": 12,
+        "category": "Comunicação",
+        "tip": "Ajoelha quando falar com criança pequena. Coloca no nível dos olhos dela. Você é gigante. Mude de perspectiva."
+    },
+    {
+        "id": 13,
+        "category": "Comunicação",
+        "tip": "Fala menos, ouve mais. Pai que só dá sermão perde o filho para o amigo que ouve."
+    },
+    {
+        "id": 14,
+        "category": "Comunicação",
+        "tip": "Não ridiculariza o medo do seu filho. Vai parecer bobagem pra você. Pra ele é real. Respeita."
+    },
+    {
+        "id": 15,
+        "category": "Comunicação",
+        "tip": "Diz 'eu errei' quando errar. Filho que vê pai pedindo desculpa aprende mais sobre caráter do que qualquer discurso."
+    },
+    {
+        "id": 16,
+        "category": "Comunicação",
+        "tip": "Explica suas decisões. Não precisa justificar tudo, mas quando explica, forma um filho que pensa, não só obedece."
+    },
+    {
+        "id": 17,
+        "category": "Comunicação",
+        "tip": "Não compara seu filho com outro. Nem com irmão. Cada um tem seu tempo. Comparação mata autoestima."
+    },
+    {
+        "id": 18,
+        "category": "Comunicação",
+        "tip": "Elogia esforço, não resultado. 'Você se dedicou muito nisso' forma mais do que 'você é inteligente'."
+    },
+    {
+        "id": 19,
+        "category": "Comunicação",
+        "tip": "Tem conversas difíceis: sexo, drogas, racismo, morte. Se você não cria esse espaço, a rua cria."
+    },
+    {
+        "id": 20,
+        "category": "Comunicação",
+        "tip": "Conta histórias da sua infância. Erros seus, medos seus. Isso te humaniza e cria ponte com ele."
+    },
+    {
+        "id": 21,
+        "category": "Parceria com a mãe",
+        "tip": "Nunca descredita a mãe na frente da criança. Mesmo se discordarem, faz isso em particular. A frente unida é a força do lar."
+    },
+    {
+        "id": 22,
+        "category": "Parceria com a mãe",
+        "tip": "Divídio as tarefas da casa sem esperar ser pedido. Ela não é sua auxiliar. Vocês dois montaram esse time."
+    },
+    {
+        "id": 23,
+        "category": "Parceria com a mãe",
+        "tip": "Quando ela precisar de descanso, você assume. Sem drama, sem contar ponto. É parceria."
+    },
+    {
+        "id": 24,
+        "category": "Parceria com a mãe",
+        "tip": "Faz uma consulta de casal todo mês. Não médica. Uma conversa de parceiros: 'como você está? O que precisa?'"
+    },
+    {
+        "id": 25,
+        "category": "Parceria com a mãe",
+        "tip": "Cuida do casamento tanto quanto dos filhos. Filho vive mais saudável com os pais se amando do que separados tentando compensar."
+    },
+    {
+        "id": 26,
+        "category": "Parceria com a mãe",
+        "tip": "Não faz ela de relatora das coisas dos filhos. 'Pergunta pra sua mãe' às vezes é driblar responsabilidade. Sabe das coisas você também."
+    },
+    {
+        "id": 27,
+        "category": "Parceria com a mãe",
+        "tip": "Agradeça em voz alta. Pro filho ouvir. 'Sua mãe é incrível, viu?' Isso ensina respeito e amor ao mesmo tempo."
+    },
+    {
+        "id": 28,
+        "category": "Parceria com a mãe",
+        "tip": "Na gestação: apareça nas consultas. Sente na posição dela em relação ao medo, ao cansaço, à transformação do corpo."
+    },
+    {
+        "id": 29,
+        "category": "Disciplina",
+        "tip": "Disciplina sem afeto é controle. Afeto sem disciplina é permissividade. O equilíbrio é o que forma caráter."
+    },
+    {
+        "id": 30,
+        "category": "Disciplina",
+        "tip": "Diz não com firmeza e sem culpa. O pai que não sabe dizer não cria um filho que não sabe ouvir não."
+    },
+    {
+        "id": 31,
+        "category": "Disciplina",
+        "tip": "Nunca bate com raiva. Se tiver à beira do limite, dá um tempo. Sai do ambiente. Volta com controle."
+    },
+    {
+        "id": 32,
+        "category": "Disciplina",
+        "tip": "Consequência não é punição. Consequência ensina. Punição machucar. Aprende a diferença."
+    },
+    {
+        "id": 33,
+        "category": "Disciplina",
+        "tip": "Seja consistente. O que proibiu hoje não pode liberar amanhã por cansaço. Criança testa limites pra saber se eles são sólidos."
+    },
+    {
+        "id": 34,
+        "category": "Disciplina",
+        "tip": "Não ameaça o que não vai cumprir. Seu filho aprende a não te levar a sério quando as ameaças são vazias."
+    },
+    {
+        "id": 35,
+        "category": "Disciplina",
+        "tip": "Reconhece quando a disciplina foi excessiva. 'Errei em ser duro assim' é uma lição de humanidade."
+    },
+    {
+        "id": 36,
+        "category": "Disciplina",
+        "tip": "Estabelece regras claras. Filho sem limites não é livre — está perdido. Limite é segurança disfarçada de restrição."
+    },
+    {
+        "id": 37,
+        "category": "Saúde mental do pai",
+        "tip": "Pai que não cuida da própria saúde mental cobra um preço alto dos filhos. Você não é uma máquina."
+    },
+    {
+        "id": 38,
+        "category": "Saúde mental do pai",
+        "tip": "Chorar na frente do filho não é fraqueza. É autorização para ele também sentir e expressar."
+    },
+    {
+        "id": 39,
+        "category": "Saúde mental do pai",
+        "tip": "Terapia não é pra quem tá quebrado. É pra quem quer funcionar melhor. Como manutenção de carro."
+    },
+    {
+        "id": 40,
+        "category": "Saúde mental do pai",
+        "tip": "Você não consegue ser pai presente se não estiver presente em si mesmo primeiro. Cuida do seu interior."
+    },
+    {
+        "id": 41,
+        "category": "Saúde mental do pai",
+        "tip": "Reconhece quando está sobrecarregado. Pede ajuda. Isso não te diminui. Te salva."
+    },
+    {
+        "id": 42,
+        "category": "Saúde mental do pai",
+        "tip": "Não guarda rancor do seu próprio pai como manual de como não ser. Entenda a história dele. Liberta os dois."
+    },
+    {
+        "id": 43,
+        "category": "Saúde mental do pai",
+        "tip": "Tem um espaço seu. Um hobby, um amigo, um momento de silêncio. Recarrega sem culpa."
+    },
+    {
+        "id": 44,
+        "category": "Saúde mental do pai",
+        "tip": "Faz exercício. Não pra estética. Pra conseguir sustentar o peso de ser pai sem desmoronar."
+    },
+    {
+        "id": 45,
+        "category": "Saúde mental do pai",
+        "tip": "Dorme. Pai privado de sono é um pai irritado. E criança não merece pagar por isso."
+    },
+    {
+        "id": 46,
+        "category": "Legado",
+        "tip": "O que você quer que seu filho diga de você quando for adulto? Começa a agir hoje como esse pai."
+    },
+    {
+        "id": 47,
+        "category": "Legado",
+        "tip": "Seu filho aprende mais vendo você do que ouvindo você. Seja o que você quer que ele seja."
+    },
+    {
+        "id": 48,
+        "category": "Legado",
+        "tip": "Não compra amor. Compra tempo, sim. Mas o amor se constrói no dia a dia, nos momentos banais."
+    },
+    {
+        "id": 49,
+        "category": "Legado",
+        "tip": "Quando falar de trabalho, mostra o propósito, não só o sacrifício. 'Trabalho pra construirmos' não 'trabalho e me mato pra vocês'."
+    },
+    {
+        "id": 50,
+        "category": "Legado",
+        "tip": "Apresenta seu filho ao mundo com orgulho. Que ele sinta que a presença dele é bênção, não fardo."
+    },
+    {
+        "id": 51,
+        "category": "Pais Atípicos",
+        "tip": "Ter um filho com necessidades especiais não é castigo. É um chamado para um nível de amor que a maioria nunca vai conhecer."
+    },
+    {
+        "id": 52,
+        "category": "Pais Atípicos",
+        "tip": "Se seu filho foi diagnosticado, não entre em luto pelo filho que você imaginava. Conheça o filho que você tem."
+    },
+    {
+        "id": 53,
+        "category": "Pais Atípicos",
+        "tip": "Aprende a língua dele. Cada criança atípica tem uma forma de se comunicar. Descobre a dele."
+    },
+    {
+        "id": 54,
+        "category": "Pais Atípicos",
+        "tip": "Cuida da parceria com a mãe com prioridade redobrada. Pais de filhos com TEA têm alto risco de separação. Protege isso."
+    },
+    {
+        "id": 55,
+        "category": "Pais Atípicos",
+        "tip": "Você vai cansar. Vai ter dias impossíveis. Isso não te faz mau pai. Te faz humano. Busca suporte."
+    },
+    {
+        "id": 56,
+        "category": "Pais Atípicos",
+        "tip": "Celebra cada conquista, por menor que pareça. Um 'olá' pode ter custado meses. Recebe isso como ouro."
+    },
+    {
+        "id": 57,
+        "category": "Pais Atípicos",
+        "tip": "Não aceita pena de ninguém. Nem do médico, nem da família. Quem quer ajudar que apareça com ação, não com dó."
+    },
+    {
+        "id": 58,
+        "category": "Pais Atípicos",
+        "tip": "Filhos atípicos ensinam formas de amor que filhos neurotípicos não precisam ensinar. Fica aberto ao aprendizado."
+    },
+    {
+        "id": 59,
+        "category": "Pais Atípicos",
+        "tip": "Conhece outros pais de filhos com a mesma condição. A troca de experiência vale mais que qualquer livro."
+    },
+    {
+        "id": 60,
+        "category": "Pais Atípicos",
+        "tip": "Luta por inclusão com orgulho. Seu filho não precisa se adaptar ao mundo. O mundo precisa aprender a recebê-lo."
+    },
+    {
+        "id": 61,
+        "category": "Gestação",
+        "tip": "Ela não está apenas grávida. Ela está se tornando mãe enquanto você ainda está se preparando. Reconhece essa assimetria."
+    },
+    {
+        "id": 62,
+        "category": "Gestação",
+        "tip": "Vai às consultas de pré-natal. Todas que puder. Isso não é obrigação — é declaração de que você está junto."
+    },
+    {
+        "id": 63,
+        "category": "Gestação",
+        "tip": "O enjoo dela não é frescura. Ela está construindo um ser humano dentro do corpo. Tem paciência."
+    },
+    {
+        "id": 64,
+        "category": "Gestação",
+        "tip": "Cuida da alimentação da casa. Faz compras com ternura. Ela vai comer o que você colocar à disposição."
+    },
+    {
+        "id": 65,
+        "category": "Gestação",
+        "tip": "Aprende sobre cada fase da gestação. Quando você entende o que está acontecendo, consegue ser mais presente de forma certa."
+    },
+    {
+        "id": 66,
+        "category": "Gestação",
+        "tip": "Conversa com o bebê na barriga. Sem pudor. Sua voz já é familiar antes do nascimento."
+    },
+    {
+        "id": 67,
+        "category": "Gestação",
+        "tip": "Ela vai mudar. Humor, corpo, energia. Sua função não é consertar — é sustentar. Seja o chão."
+    },
+    {
+        "id": 68,
+        "category": "Gestação",
+        "tip": "Organiza o quarto juntos. Não delega pra ela. Esse ritual é de ambos."
+    },
+    {
+        "id": 69,
+        "category": "Gestação",
+        "tip": "Aprende a dar banho de bebê, trocar fralda, amamentar de forma auxiliar. Não chega no parto sem repertório."
+    },
+    {
+        "id": 70,
+        "category": "Gestação",
+        "tip": "Ela pode ter medo. Medo do parto, de não ser boa mãe. Não minimiza. Pergunta, escuta, abraça."
+    },
+    {
+        "id": 71,
+        "category": "Futuro Pai",
+        "tip": "Antes de ser pai, descobre quem você é como homem. Um pai que não se conhece replica traumas sem saber."
+    },
+    {
+        "id": 72,
+        "category": "Futuro Pai",
+        "tip": "Faz as pazes com seu próprio pai — ou com a ausência dele. Isso vai aparecer na sua paternidade de forma inevitável."
+    },
+    {
+        "id": 73,
+        "category": "Futuro Pai",
+        "tip": "Resolve suas dívidas financeiras agora. Filho não é incentivo pra sair do buraco. Você precisa ter chão pra recebê-lo."
+    },
+    {
+        "id": 74,
+        "category": "Futuro Pai",
+        "tip": "Cuida do seu relacionamento agora. Um filho não conserta casal quebrado. Conserta o casal antes de ampliar a família."
+    },
+    {
+        "id": 75,
+        "category": "Futuro Pai",
+        "tip": "Lê sobre desenvolvimento infantil. Não pra executar manual, mas pra entender o que vem pela frente."
+    },
+    {
+        "id": 76,
+        "category": "Futuro Pai",
+        "tip": "Conversa com seu parceiro sobre estilo de criação antes de o bebê chegar. Na hora da fadiga não dá pra ter esse debate."
+    },
+    {
+        "id": 77,
+        "category": "Futuro Pai",
+        "tip": "Aprende a cozinhar pelo menos o básico. Filho pequeno, mãe cansada — a comida não pode depender de delivery."
+    },
+    {
+        "id": 78,
+        "category": "Futuro Pai",
+        "tip": "Resolve bagagem emocional com terapia agora. Pai que não curou as próprias feridas vai cobrar cura dos filhos."
+    },
+    {
+        "id": 79,
+        "category": "O que não fazer",
+        "tip": "Não some quando a situação fica difícil. É exatamente quando fica difícil que você precisa aparecer mais."
+    },
+    {
+        "id": 80,
+        "category": "O que não fazer",
+        "tip": "Não usa o filho como mensageiro dos conflitos do casal. 'Fala pra sua mãe...' é covardia emocional."
+    },
+    {
+        "id": 81,
+        "category": "O que não fazer",
+        "tip": "Não promete e não cumpre. Uma promessa quebrada com filho é uma pedra no alicerce da desconfiança."
+    },
+    {
+        "id": 82,
+        "category": "O que não fazer",
+        "tip": "Não briga com a mãe dele na frente dele. A cena fica gravada. O sistema nervoso da criança não tem filtro."
+    },
+    {
+        "id": 83,
+        "category": "O que não fazer",
+        "tip": "Não deixa o álcool ser o seu descanso. Filho aprende o que vê. Se você bebe pra aguentar, ele vai aprender isso."
+    },
+    {
+        "id": 84,
+        "category": "O que não fazer",
+        "tip": "Não trata filho como propriedade. Filho é ser humano com dignidade própria desde o nascimento."
+    },
+    {
+        "id": 85,
+        "category": "O que não fazer",
+        "tip": "Não foge das emoções difíceis do seu filho. Choro, raiva, medo — essas são aulas. Não fugas."
+    },
+    {
+        "id": 86,
+        "category": "O que não fazer",
+        "tip": "Não compara seu filho com quem você era. Ele é outro tempo, outra pessoa, outro mundo."
+    },
+    {
+        "id": 87,
+        "category": "O que não fazer",
+        "tip": "Não ignora sinais de que algo está errado. Se o filho mudou de comportamento, investiga. Não minimiza."
+    },
+    {
+        "id": 88,
+        "category": "O que não fazer",
+        "tip": "Não deixa a ausência do pai que você teve virar desculpa pra sua própria ausência. Quebra o ciclo. Você pode."
+    },
+    {
+        "id": 89,
+        "category": "Pequenas ações",
+        "tip": "Deixa bilhete na lancheira. Pequeno. 'Tô na torcida.' Isso vai durar na memória mais que qualquer viagem."
+    },
+    {
+        "id": 90,
+        "category": "Pequenas ações",
+        "tip": "Faz o café da manhã sem ser pedido. Senta junto. Come devagar. Esse é o ritual que constrói lar."
+    },
+    {
+        "id": 91,
+        "category": "Pequenas ações",
+        "tip": "Liga pra ele quando está viajando. Mesmo que curto. Presença sonora conta."
+    },
+    {
+        "id": 92,
+        "category": "Pequenas ações",
+        "tip": "Aprende o nome dos amigos dele. Pergunta sobre eles. Ele vai sentir que a vida dele importa pra você."
+    },
+    {
+        "id": 93,
+        "category": "Pequenas ações",
+        "tip": "Organiza um passeio surpresa. Não precisa ser caro. Um parque, uma sorveteria, uma caminhada com ele. Só."
+    },
+    {
+        "id": 94,
+        "category": "Pequenas ações",
+        "tip": "Ensina uma habilidade sua pro filho. Trocar pneu, plantar, cozinhar, programar. Passa conhecimento de mão em mão."
+    },
+    {
+        "id": 95,
+        "category": "Pequenas ações",
+        "tip": "Deixa ele te ver chorar de emoção positiva. Filme, música, jogo. Mostra que emoção não é fraqueza."
+    },
+    {
+        "id": 96,
+        "category": "Pequenas ações",
+        "tip": "Tira foto com ele. Não só dele. Com ele. Pra ele saber que estava com você naquele momento."
+    },
+    {
+        "id": 97,
+        "category": "Pequenas ações",
+        "tip": "Faz dever de casa junto quando precisar. Não resolve por ele. Fica do lado enquanto ele resolve."
+    },
+    {
+        "id": 98,
+        "category": "Pequenas ações",
+        "tip": "Coloca o celular longe durante o jantar. Uma hora por dia de atenção plena muda o relacionamento."
+    },
+    {
+        "id": 99,
+        "category": "Pequenas ações",
+        "tip": "Conta uma história antes de dormir. Inventa. Cria mundos. O filho que dorme com imaginação acorda com criatividade."
+    },
+    {
+        "id": 100,
+        "category": "Pequenas ações",
+        "tip": "Faz a cama dele quando ele está doente. Pequeno gesto. Grande declaração de amor paterno."
+    }
+]

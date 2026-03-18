@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Playfair+Display:ital,wght@0,700;0,900;1,700&display=swap');
+@import "tailwindcss";
+
+:root {
+    --gold: #C9A84C;
+    --gold-light: #E8C96B;
+    --gold-dark: #8B6914;
+    --black: #0A0A0A;
+    --black-2: #111111;
+    --black-3: #1A1A1A;
+    --black-4: #242424;
+    --white: #F5F0E8;
+    --white-dim: #B0A898;
+    --red: #C0392B;
+    --green: #27AE60;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', sans-serif;
+    background: var(--black);
+    color: var(--white);
+    -webkit-font-smoothing: antialiased;
+}
+
+.gold {
+    color: var(--gold);
+}
+
+.gold-gradient {
+    background: linear-gradient(135deg, var(--gold-light) 0%, var(--gold) 50%, var(--gold-dark) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.gold-border {
+    border-color: var(--gold);
+}
+
+.bg-black-2 {
+    background: var(--black-2);
+}
+
+.bg-black-3 {
+    background: var(--black-3);
+}
+
+.bg-black-4 {
+    background: var(--black-4);
+}
+
+.text-white-dim {
+    color: var(--white-dim);
+}
+
+.btn-gold {
+    background: linear-gradient(135deg, var(--gold-light) 0%, var(--gold) 100%);
+    color: var(--black);
+    font-weight: 800;
+    border-radius: 0.5rem;
+    transition: all 0.2s;
+}
+
+.btn-gold:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+}
+
+.btn-gold:active {
+    transform: scale(0.97);
+}
+
+.card-dark {
+    background: var(--black-3);
+    border: 1px solid rgba(201, 168, 76, 0.15);
+    border-radius: 1rem;
+    transition: all 0.3s;
+}
+
+.card-dark:hover {
+    border-color: rgba(201, 168, 76, 0.4);
+    transform: translateY(-2px);
+}
+
+.serif {
+    font-family: 'Playfair Display', serif;
+}
+
+/* Scrollbar */
+::-webkit-scrollbar {
+    width: 4px;
+}
+
+::-webkit-scrollbar-track {
+    background: var(--black-2);
+}
+
+::-webkit-scrollbar-thumb {
+    background: var(--gold-dark);
+    border-radius: 4px;
+}
+
+/* Daily Tip Popup animation */
+@keyframes slideUp {
+    from {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
+
+.animate-slide-up {
+    animation: slideUp 0.4s ease-out;
+}
+
+/* Glow */
+.gold-glow {
+    box-shadow: 0 0 30px rgba(201, 168, 76, 0.2);
+}

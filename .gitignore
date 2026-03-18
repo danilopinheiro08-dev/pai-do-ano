@@ -1,0 +1,12 @@
+# Pai do Ano
+
+node_modules/
+.next/
+out/
+*.pyc
+__pycache__/
+venv/
+.env
+.env.local
+*.log
+.DS_Store
