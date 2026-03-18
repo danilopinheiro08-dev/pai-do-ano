@@ -1,6 +1,5 @@
 from fastapi import FastAPI, HTTPException, Request, status
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.middleware.trustedhost import TrustedHostMiddleware
 from fastapi.responses import JSONResponse
 from pydantic import BaseModel, field_validator
 from groq import Groq
@@ -43,13 +42,7 @@ app.add_middleware(
     allow_headers=["Content-Type"],
 )
 
-# ─────────────────────────────────────────────
-# SECURITY: Trusted hosts middleware
-# ─────────────────────────────────────────────
-app.add_middleware(
-    TrustedHostMiddleware,
-    allowed_hosts=["localhost", "127.0.0.1", "paidoano.com", "www.paidoano.com", "*.paidoano.com", "pai-do-ano.vercel.app", "paidoano.vercel.app", "pai-do-ano.onrender.com"],
-)
+# Trusted hosts middleware removed (causes issues behind Render load balancer)
 
 # ─────────────────────────────────────────────
 # SECURITY: Rate limiting (in-memory, per IP)
