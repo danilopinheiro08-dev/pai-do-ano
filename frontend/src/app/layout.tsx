@@ -1,11 +1,14 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import "./globals.css";
+
+export const viewport: Viewport = {
+    themeColor: "#C9A84C",
+};
 
 export const metadata: Metadata = {
     title: "Pai do Ano — O Manual que Seu Pai Nunca Te Deu",
     description: "Um app para pais de verdade. Assessment, 1000+ dicas, IA conselheira e o conteúdo que ninguém te conta. Por Danilo Pinheiro.",
     manifest: "/manifest.json",
-    themeColor: "#C9A84C",
     openGraph: {
         title: "Pai do Ano",
         description: "De homem para homem. Sobre paternidade real.",
