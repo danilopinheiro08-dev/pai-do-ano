@@ -29,8 +29,11 @@ app = FastAPI(
 ALLOWED_ORIGINS = [
     "http://localhost:3002",
     "http://127.0.0.1:3002",
-    "https://paidoano.com",         # production domain (update when you have one)
+    "https://paidoano.com",
     "https://www.paidoano.com",
+    "https://pai-do-ano.vercel.app",
+    "https://paidoano.vercel.app",
+    "https://pai-do-ano.onrender.com"
 ]
 app.add_middleware(
     CORSMiddleware,
@@ -45,7 +48,7 @@ app.add_middleware(
 # ─────────────────────────────────────────────
 app.add_middleware(
     TrustedHostMiddleware,
-    allowed_hosts=["localhost", "127.0.0.1", "paidoano.com", "www.paidoano.com", "*.paidoano.com"],
+    allowed_hosts=["localhost", "127.0.0.1", "paidoano.com", "www.paidoano.com", "*.paidoano.com", "pai-do-ano.vercel.app", "paidoano.vercel.app", "pai-do-ano.onrender.com"],
 )
 
 # ─────────────────────────────────────────────
